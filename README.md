@@ -13,4 +13,9 @@ Gitlek3
 - Second item
 - Third item
 
+## User Story 007
+
+**I am Taner, I am bold**
+*I am Mohammad, I am Italic*
+
 
